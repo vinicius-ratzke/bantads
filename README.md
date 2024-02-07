@@ -5,8 +5,8 @@ TadsBank
 
 Este projeto foi feito pelos alunos:
 
-Guilherme Batista
-Vinicius Ratzke Servelo
-Leonardo Vzorek
-Gianluca Notari
-Pietro Borges
+- Guilherme Batista
+- Vinicius Ratzke Servelo
+- Leonardo Vzorek
+- Gianluca Notari
+- Pietro Borges
