@@ -3,7 +3,9 @@ TadsBank
 
 
 
-Este projeto foi feito pelos alunos:
+Este projeto não foi finalizado ainda
+
+Feito pelos alunos:
 
 - Guilherme Batista
 - Vinicius Ratzke Servelo
